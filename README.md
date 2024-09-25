@@ -1,6 +1,6 @@
 # Olá! 👋 Sou Otávio Hellmann Wiemes.
 
-🎓 Cursando Cursando Bacharelado em Sistemas de Informação no IFC.  
+🎓 Cursando Bacharelado em Sistemas de Informação no IFC.  
 🎯 Tenho como objetivo construir uma carreira no mercado de Desenvolvimento.  
 💼 Atualmente trabalho como Analista de Suporte Microsoft 365.
 
@@ -16,7 +16,6 @@
   <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="40px;" height="40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 ### Minhas Redes:
